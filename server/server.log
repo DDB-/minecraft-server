@@ -915,11 +915,97 @@
 2013-07-24 20:51:07 [INFO] 
 2013-07-24 22:35:02 [INFO] There are 0/20 players online:
 2013-07-24 22:35:02 [INFO] 
-2013-07-24 23:34:56 [INFO] Stopping server
-2013-07-24 23:34:56 [INFO] Saving players
-2013-07-24 23:34:56 [INFO] Saving worlds
-2013-07-24 23:34:56 [INFO] Saving chunks for level 'world'/Overworld
-2013-07-24 23:34:56 [INFO] Closing listening thread
-2013-07-24 23:34:56 [INFO] Saving chunks for level 'world'/Nether
-2013-07-24 23:34:56 [INFO] Saving chunks for level 'world'/The End
-2013-07-24 23:34:57 [INFO] Stopping server
+2013-07-28 20:31:19 [INFO] Starting minecraft server version 1.6.2
+2013-07-28 20:31:19 [INFO] Loading properties
+2013-07-28 20:31:19 [INFO] Default game type: SURVIVAL
+2013-07-28 20:31:19 [INFO] Generating keypair
+2013-07-28 20:31:19 [INFO] Starting Minecraft server on *:25565
+2013-07-28 20:31:19 [INFO] Preparing level "world"
+2013-07-28 20:31:19 [INFO] Preparing start region for level 0
+2013-07-28 20:31:20 [INFO] Preparing spawn area: 89%
+2013-07-28 20:31:20 [INFO] Done (1.167s)! For help, type "help" or "?"
+2013-07-28 20:31:21 [INFO] /192.168.0.19:49241 lost connection
+2013-07-28 20:31:21 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:31:25 [INFO] Stopping server
+2013-07-28 20:31:25 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:31:44 [INFO] Starting minecraft server version 1.6.2
+2013-07-28 20:31:44 [INFO] Loading properties
+2013-07-28 20:31:44 [INFO] Default game type: SURVIVAL
+2013-07-28 20:31:44 [INFO] Generating keypair
+2013-07-28 20:31:44 [INFO] Starting Minecraft server on *:25565
+2013-07-28 20:31:44 [INFO] Preparing level "world"
+2013-07-28 20:31:44 [INFO] Preparing start region for level 0
+2013-07-28 20:31:45 [INFO] Preparing spawn area: 97%
+2013-07-28 20:31:45 [INFO] Done (1.112s)! For help, type "help" or "?"
+2013-07-28 20:31:47 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:31:50 [INFO] Jemeyr[/192.168.0.19:49249] logged in with entity id 260 at (154.91620366624974, 79.0, 448.9714256886323)
+2013-07-28 20:31:50 [INFO] Jemeyr joined the game
+2013-07-28 20:31:52 [INFO] Soulack[/192.168.0.20:61330] logged in with entity id 1061 at (132.24907734955016, 64.0, 288.6508845736303)
+2013-07-28 20:31:52 [INFO] Soulack joined the game
+2013-07-28 20:32:17 [INFO] /192.168.0.19:49248 lost connection
+2013-07-28 20:32:22 [INFO] Beyamor[/192.168.0.24:35945] logged in with entity id 1564 at (155.05177399435465, 79.0, 450.04951017277807)
+2013-07-28 20:32:22 [INFO] Beyamor joined the game
+2013-07-28 20:32:44 [INFO] TieDomiFan[/127.0.0.1:49258] logged in with entity id 2105 at (113.78349988725593, 107.0, 455.2964221895253)
+2013-07-28 20:32:44 [INFO] TieDomiFan joined the game
+2013-07-28 20:38:04 [INFO] Leesifer[/192.168.0.22:49503] logged in with entity id 15843 at (139.30000001192093, 89.0, 491.63042743134883)
+2013-07-28 20:38:04 [INFO] Leesifer joined the game
+2013-07-28 20:42:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-28 20:42:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-28 20:43:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-28 20:46:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-07-28 20:49:15 [WARNING] Leesifer moved wrongly!
+2013-07-28 20:54:01 [INFO] Leesifer lost connection: disconnect.quitting
+2013-07-28 20:54:01 [INFO] Leesifer left the game
+2013-07-28 20:55:42 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-07-28 20:55:42 [INFO] /kick <player> [reason ...]
+2013-07-28 20:55:42 [INFO] /kill
+2013-07-28 20:55:42 [INFO] /list
+2013-07-28 20:55:42 [INFO] /me <action ...>
+2013-07-28 20:55:42 [INFO] /op <player>
+2013-07-28 20:55:42 [INFO] /pardon <name>
+2013-07-28 20:55:42 [INFO] /pardon-ip <address>
+2013-07-28 20:55:44 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2013-07-28 20:55:44 [INFO] /difficulty <new difficulty>
+2013-07-28 20:55:44 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2013-07-28 20:55:44 [INFO] /enchant <player> <enchantment ID> [level]
+2013-07-28 20:55:44 [INFO] /gamemode <mode> [player]
+2013-07-28 20:55:44 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2013-07-28 20:55:44 [INFO] /give <player> <item> [amount] [data]
+2013-07-28 20:55:44 [INFO] /help [page|command name]
+2013-07-28 20:55:46 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-07-28 20:55:46 [INFO] /ban <name> [reason ...]
+2013-07-28 20:55:46 [INFO] /ban-ip <address|name> [reason ...]
+2013-07-28 20:55:46 [INFO] /banlist [ips|players]
+2013-07-28 20:55:46 [INFO] /clear <player> [item] [data]
+2013-07-28 20:55:46 [INFO] /debug <start|stop>
+2013-07-28 20:55:46 [INFO] /defaultgamemode <mode>
+2013-07-28 20:55:46 [INFO] /deop <player>
+2013-07-28 20:55:48 [INFO] --- Showing help page 4 of 6 (/help <page>) ---
+2013-07-28 20:55:48 [INFO] /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+2013-07-28 20:55:48 [INFO] /save-all
+2013-07-28 20:55:48 [INFO] /save-off
+2013-07-28 20:55:48 [INFO] /save-on
+2013-07-28 20:55:48 [INFO] /say <message ...>
+2013-07-28 20:55:48 [INFO] /scoreboard <objectives|players|teams>
+2013-07-28 20:55:48 [INFO] /seed
+2013-07-28 20:55:52 [INFO] Saving...
+2013-07-28 20:55:52 [INFO] Saved the world
+2013-07-28 20:58:33 [INFO] Jemeyr lost connection: disconnect.quitting
+2013-07-28 20:58:33 [INFO] Jemeyr left the game
+2013-07-28 20:58:34 [INFO] Saving...
+2013-07-28 20:58:35 [INFO] Saved the world
+2013-07-28 20:58:39 [INFO] Saving...
+2013-07-28 20:58:39 [INFO] Saved the world
+2013-07-28 20:58:45 [INFO] Stopping server
+2013-07-28 20:58:45 [INFO] Saving players
+2013-07-28 20:58:45 [INFO] Closing listening thread
+2013-07-28 20:58:45 [INFO] Soulack left the game
+2013-07-28 20:58:45 [INFO] Beyamor left the game
+2013-07-28 20:58:45 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:58:45 [INFO] TieDomiFan left the game
+2013-07-28 20:58:45 [SEVERE] Reached end of stream for /192.168.0.24
+2013-07-28 20:58:45 [INFO] Saving worlds
+2013-07-28 20:58:45 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-28 20:58:45 [SEVERE] Reached end of stream for /127.0.0.1
+2013-07-28 20:58:45 [INFO] Saving chunks for level 'world'/Nether
+2013-07-28 20:58:45 [INFO] Saving chunks for level 'world'/The End
