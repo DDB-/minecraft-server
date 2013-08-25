@@ -1,0 +1,43 @@
+2013-07-28 20:20:56 [INFO] Starting minecraft server version 1.6.2
+2013-07-28 20:20:57 [INFO] Loading properties
+2013-07-28 20:20:57 [WARNING] server.properties does not exist
+2013-07-28 20:20:57 [INFO] Generating new properties file
+2013-07-28 20:20:57 [INFO] Default game type: SURVIVAL
+2013-07-28 20:20:57 [INFO] Generating keypair
+2013-07-28 20:21:02 [INFO] Starting Minecraft server on *:25565
+2013-07-28 20:21:02 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2013-07-28 20:21:02 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2013-07-28 20:21:02 [INFO] Preparing level "world"
+2013-07-28 20:21:04 [INFO] Preparing start region for level 0
+2013-07-28 20:21:06 [INFO] Preparing spawn area: 5%
+2013-07-28 20:21:07 [INFO] Preparing spawn area: 12%
+2013-07-28 20:21:08 [INFO] Preparing spawn area: 22%
+2013-07-28 20:21:09 [INFO] Preparing spawn area: 34%
+2013-07-28 20:21:10 [INFO] Preparing spawn area: 46%
+2013-07-28 20:21:11 [INFO] Preparing spawn area: 60%
+2013-07-28 20:21:12 [INFO] Preparing spawn area: 71%
+2013-07-28 20:21:13 [INFO] Preparing spawn area: 84%
+2013-07-28 20:21:14 [INFO] Preparing spawn area: 96%
+2013-07-28 20:21:15 [INFO] Done (12.059s)! For help, type "help" or "?"
+2013-07-28 20:23:53 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:24:00 [INFO] Soulack[/192.168.0.20:61244] logged in with entity id 5109 at (-202.5, 64.0, 138.5)
+2013-07-28 20:24:00 [INFO] Soulack joined the game
+2013-07-28 20:26:28 [INFO] Soulack lost connection: disconnect.genericReason
+2013-07-28 20:26:28 [INFO] Soulack left the game
+2013-07-28 20:29:42 [SEVERE] Reached end of stream for /192.168.0.19
+2013-07-28 20:29:47 [INFO] Jemeyr[/192.168.0.19:49226] logged in with entity id 9534 at (-203.5, 64.0, 142.5)
+2013-07-28 20:29:47 [INFO] Jemeyr joined the game
+2013-07-28 20:29:54 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:29:56 [INFO] Soulack[/192.168.0.20:61286] logged in with entity id 9908 at (-137.04452866855124, 62.0, 132.1992269827842)
+2013-07-28 20:29:56 [INFO] Soulack joined the game
+2013-07-28 20:31:16 [INFO] Stopping server
+2013-07-28 20:31:16 [INFO] Saving players
+2013-07-28 20:31:16 [INFO] Closing listening thread
+2013-07-28 20:31:16 [INFO] Jemeyr left the game
+2013-07-28 20:31:16 [INFO] Soulack left the game
+2013-07-28 20:31:16 [INFO] Saving worlds
+2013-07-28 20:31:16 [INFO] Saving chunks for level 'world'/Overworld
+2013-07-28 20:31:16 [SEVERE] Reached end of stream for /192.168.0.20
+2013-07-28 20:31:16 [INFO] Saving chunks for level 'world'/Nether
+2013-07-28 20:31:16 [INFO] Saving chunks for level 'world'/The End
+2013-07-28 20:31:16 [SEVERE] Reached end of stream for /192.168.0.19
